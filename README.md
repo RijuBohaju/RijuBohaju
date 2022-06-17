@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on plain JS projects.
-- 🌱 I’m UI/Web Designing .
+- 🌱 I’m learning UI/Web Designing .
 - 💬 Ask me about computer science.
 - 😄 Pronouns: Rezu
 
