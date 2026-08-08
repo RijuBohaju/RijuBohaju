@@ -5,8 +5,8 @@
 </div>
 
 
-- 🔭 I’m currently working on plain JS projects.
-- 🌱 I’m learning UI/Web Designing .
+- Software QA Engineer | Manual & Automation Testing | Selenium | Playwright | API Testing | Postman | Jmeter | Java | SQL
+- 🌱 Exploring Data Science.
 - 💬 Ask me about computer science.
 - 😄 Pronouns: Rezu
 
